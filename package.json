@@ -18,6 +18,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@fastify/cookie": "8.3.0",
     "@prisma/client": "4.10.1",
     "@rocketseat/eslint-config": "1.2.0",
     "@types/bcryptjs": "2.4.2",
